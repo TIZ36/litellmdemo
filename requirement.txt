@@ -1,1 +1,5 @@
-litellm==v1.0.0
+litellm==v1.39.5
+rich==13.6.0
+
+# Specify the version of IPython
+ipython==7.31.1
